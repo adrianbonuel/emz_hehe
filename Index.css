@@ -1,0 +1,40 @@
+body{
+display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+}
+body{
+  background-image: url('pau.jpg');
+  background-position: center;
+  background-size: cover;
+}
+img{
+  max-width: 100px;
+  margin-left: 35%;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.pau{
+  border: 1px solid ;
+  border-color: #97F2F3;
+  border-radius: 10px;
+  width: 60%;
+  height: 50vh%;
+}
+.pau{
+  background-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0px 0px 15px #fff;
+}
+.pau{
+  position: relative;
+  width: 320px;
+}
+audio {
+  margin-left: 10px;
+  margin-bottom:10px;
+  
+}
+p{
+  text-align: center;
+}
